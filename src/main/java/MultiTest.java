@@ -28,6 +28,7 @@ public class MultiTest implements Runnable{
 //        Thread tb = new Thread(t2, "B");
 //        ta.start();
 //        tb.start();
+酷酷酷
         Collection<Integer> c = new ArrayList<>();
         c.add(1);
         c.add(2);
